@@ -3,7 +3,7 @@
 
 > A Mpvue project
 ## 项目展示
-![Alt text](https://github.com/hu19940121/mpVue/mpvue.gif)
+![Alt text](https://github.com/hu19940121/mpVue/blob/master/mpvue.gif)
 
 
 
