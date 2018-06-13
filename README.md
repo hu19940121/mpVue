@@ -1,4 +1,5 @@
 # mpvue-demo
+# 用最新的mpvue写的书城项目 后端用的koa2
 
 > A Mpvue project
 
